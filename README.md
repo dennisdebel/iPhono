@@ -1,5 +1,5 @@
 # iPhono
-=======================
+
 
 ## About
 Use the iPhono hardware add-on to turn your iPhone in a record player!
