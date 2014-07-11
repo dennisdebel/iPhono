@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		65A1E11C19702DD9003E16F9 /* button.png in Resources */ = {isa = PBXBuildFile; fileRef = 65A1E11B19702DD9003E16F9 /* button.png */; };
 		759C399E17B8B84500F923D2 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 759C399D17B8B84500F923D2 /* UIKit.framework */; };
 		759C39A017B8B84500F923D2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 759C399F17B8B84500F923D2 /* Foundation.framework */; };
 		759C39A217B8B84500F923D2 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 759C39A117B8B84500F923D2 /* CoreGraphics.framework */; };
@@ -30,6 +31,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		65A1E11B19702DD9003E16F9 /* button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button.png; sourceTree = "<group>"; };
 		65FC3265196FED2500AF2716 /* Xcode.app */ = {isa = PBXFileReference; lastKnownFileType = wrapper.application; name = Xcode.app; path = ../../../../Applications/Xcode.app; sourceTree = "<group>"; };
 		759C399A17B8B84500F923D2 /* iPhono.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iPhono.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		759C399D17B8B84500F923D2 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
@@ -130,6 +132,7 @@
 			isa = PBXGroup;
 			children = (
 				759C39C317B8B90200F923D2 /* listing_done_btn~iphone.png */,
+				65A1E11B19702DD9003E16F9 /* button.png */,
 				759C39D717B8C19400F923D2 /* Screen.png */,
 				759C39C417B8B90200F923D2 /* Play.png */,
 				759C39A517B8B84500F923D2 /* iPhono-Info.plist */,
@@ -195,6 +198,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				759C39A817B8B84500F923D2 /* InfoPlist.strings in Resources */,
+				65A1E11C19702DD9003E16F9 /* button.png in Resources */,
 				759C39B017B8B84600F923D2 /* Default.png in Resources */,
 				759C39B217B8B84600F923D2 /* Default@2x.png in Resources */,
 				759C39B417B8B84600F923D2 /* Default-568h@2x.png in Resources */,
@@ -312,6 +316,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				COMPRESS_PNG_FILES = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -330,6 +335,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				COMPRESS_PNG_FILES = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
