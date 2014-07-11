@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9638C7F1-5446-4961-85FD-59E0DF1AD50F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iPhono</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>617B9C49-0F4D-4F0E-81DD-D4F04223862D</key>
+		<string>https://github.com/dennisdebel/iPhono.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iPhono.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>617B9C49-0F4D-4F0E-81DD-D4F04223862D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/dennisdebel/iPhono.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>617B9C49-0F4D-4F0E-81DD-D4F04223862D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>617B9C49-0F4D-4F0E-81DD-D4F04223862D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iPhono</string>
+		</dict>
+	</array>
+</dict>
+</plist>

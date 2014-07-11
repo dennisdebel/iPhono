@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "759C399917B8B84500F923D2"
-               BuildableName = "TabHoldandRecord.app"
+               BuildableName = "iPhono.app"
                BlueprintName = "iPhono"
                ReferencedContainer = "container:iPhono.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "759C399917B8B84500F923D2"
-            BuildableName = "TabHoldandRecord.app"
+            BuildableName = "iPhono.app"
             BlueprintName = "iPhono"
             ReferencedContainer = "container:iPhono.xcodeproj">
          </BuildableReference>
@@ -52,7 +52,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "759C399917B8B84500F923D2"
-            BuildableName = "TabHoldandRecord.app"
+            BuildableName = "iPhono.app"
             BlueprintName = "iPhono"
             ReferencedContainer = "container:iPhono.xcodeproj">
          </BuildableReference>
@@ -70,7 +70,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "759C399917B8B84500F923D2"
-            BuildableName = "TabHoldandRecord.app"
+            BuildableName = "iPhono.app"
             BlueprintName = "iPhono"
             ReferencedContainer = "container:iPhono.xcodeproj">
          </BuildableReference>
