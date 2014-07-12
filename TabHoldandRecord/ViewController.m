@@ -287,7 +287,7 @@
     // NSURL *url = [NSURL fileURLWithPath:[NSString stringWithFormat:@"%@/recordTest.caf", [[NSBundle mainBundle] resourcePath]]];
     NSError *error;
     audioPlayer = [[AVAudioPlayer alloc] initWithContentsOfURL:url error:&error];
-    audioPlayer.numberOfLoops = 0;
+    audioPlayer.numberOfLoops = -1; //infintie loop playback
     [audioPlayer play];
     NSLog(@"playing");
 }
